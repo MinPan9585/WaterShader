@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/New Scene.unity
+    path: Assets/Scenes/WaterScene0223.unity
     guid: 993f4d44791a0f84e82f816aa170c7df
   m_configObjects:
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: b4d25176662bfbe43b8d353a8618b453, type: 2}
